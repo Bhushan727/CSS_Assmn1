@@ -1,0 +1,44 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+h1{
+    color: red;
+}
+.hz{
+    color: red;
+    font-style: italic;
+}
+.deepred{
+    color:maroon;
+    font-weight: 600;
+}
+.line2r{
+    text-decoration: line-through;
+}
+.yell1 {
+    background-color: yellow;
+    
+}
+.underln{
+    text-decoration: underline;
+    font-style:italic;
+}
+.space2{
+    color: maroon;
+    letter-spacing: 4px;
+}
+.yell2{
+    font-weight: bold;
+    background-color:yellow
+}
+p{
+    color:saddlebrown;
+}
+#a2{
+    background-color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    color: maroon;
+    text-decoration: none;
+}
